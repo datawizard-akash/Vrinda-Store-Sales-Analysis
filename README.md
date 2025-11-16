@@ -3,3 +3,5 @@ This project presents a comprehensive sales performance analysis of Vrinda Store
 # Objective of the Project
 
 Vrinda Store wanted to gain a clear understanding of its overall sales performance for the year 2024 and identify the key factors influencing its growth. The main objective of this project is to analyze the store’s sales data to help the business:
+## Dataset used
+- <a href="https://github.com/datawizard-akash/Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered).xlsx">Vrinda Store Data</a>
